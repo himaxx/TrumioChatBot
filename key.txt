@@ -1,0 +1,8 @@
+jVMoyMLTFvKiM1IitCgtEgcwWUqZ67tSPb8Da3uG
+
+st.info("**Trumio Welcomes You !!**")
+    st.write("Steps to be followed:")
+    st.write("1. **Type your message below to start chatting.**")
+    st.write("2. To fetch a LinkedIn profile, type '**Fetch the profile of [username]**' (e.g., 'Fetch the profile of kanishk-gupta-21372122b').")
+    st.write("3. To scrape a website, type '**Scrape the website [URL]**' (e.g., 'Scrape the website https://amazon.in').")
+    st.write("---")
